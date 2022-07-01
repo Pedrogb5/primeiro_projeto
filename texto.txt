@@ -1,0 +1,11 @@
+Comandos git aprendidos: 
+
+git init (inicializar repositório git);
+git status (visualizar status de staging do repositório);
+git add "arquivo"(adicionar arquivo novo ao staging do git) e git add . (adicionar todos os arquivos novos ao staging do git);
+git commit -m (confirma e salva as alterações do staging.. -m = message)
+git log ("git status" dos commits realizados);
+git pull [puxar arquivos do repositório localizado na nuvem (github)];
+git merge origin "branch" (mescla a branch criada com a branch principal (main ou master);
+git push (posterior a ação do commit...envia os commits, alterações do arquivo ao repositório remoto, github);
+git checkout -b "nome da branch" (cria branchs...-b = branch)
